@@ -1,0 +1,371 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75569014526,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181600379150,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4136784,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75941372,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2269833,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41520199,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1338894,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,183043511,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2340,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,389895,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2313316,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10535,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28291087,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79350,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139355406,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,621119661,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,355219172,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37236643,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151397070,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21848434,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,918482345,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1114683974,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,545827,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143672573,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48775,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,724481,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10983501,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60051417,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73723089,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134716253,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3459,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,236348,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1176178096,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1819863899,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85068,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2087411,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2273364,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70598,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18851900,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43124767,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9178,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6232,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1369507662,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,368603157,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19828979,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58567,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1800275730,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201093340,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1062011526,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1664460,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23194650,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,368731,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2033,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6484977000,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11219191000,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2401557,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1535289,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2445833,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1404694,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,334581165,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,500445920,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,347280,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35572,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,164775,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39357,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155756590,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8182082,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43163,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76955,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82284038,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3053075,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4746229494,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10105068535,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67496289,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42292480,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6814,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93679,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1336360,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1699202,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2440427,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5632399,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11780989,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78996682,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,586859604,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180725039,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53043455,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22363126,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5710312839,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,834635834,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2280246113,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,246981,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35730,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,716928394,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,517393134,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3208,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1710062,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1478392,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27118599,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,361808508,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36066655,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12252634,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16481271,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2392862,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1358859,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93859820,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,312762,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37426594,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180635843,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1571550508,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2569484,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48103,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49793,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2336300578,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5827712734,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3073356141,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4424658284,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15178,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161671,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3915,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4478,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107252079,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,229589789,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7064,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33787,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3459,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10555675334,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13302044425,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23872256,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18757760,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,493327079,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42039,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167198382,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1262167563,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,667689,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31992,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1831859,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37081516,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165717666,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9934647,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31607,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2044809,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1178,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1420730,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1493183,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35546573,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10147661,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,318295681,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,739881256,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3253784330,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27749164,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2319251,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,220887561,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145403827,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103181581,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1911503799,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7776,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,205812007,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,239236991,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,678550174,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,208799492,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1437284784,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3199437644,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12087832271,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131697043,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21182280,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,735489,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1946052,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3940935843,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3403887816,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3428692187,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4664062743,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1586354,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54200071,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19265284,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19472443,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4778020,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,204868251,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2026251426,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1963345002,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,673211,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,996370,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149892341,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,267884629,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243316,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6479315,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5979718,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,191767224,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5746,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,212404545,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1352766593,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,694332,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27693147,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,341214,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126204227,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,459539888,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2926123255,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56928530,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108347451,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,283190,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,766256,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127469,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74264,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18744203,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,423336833,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114280156,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53671,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4109062,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2274003,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9422820,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119995117,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39569325,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2403032,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251780,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,336612,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62423192,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180864605,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,343054532,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1986822958,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21363291,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,363352374,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,496394704,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,372275849,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1184,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87446063,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,348353200,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3614949,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84698,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,464744,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16937148,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192745,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,580364,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173808,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6796627,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1375007653,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15272233818,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2218,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58923843,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,187,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5935,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55763968,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22107046,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1306598,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11915423,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,233,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54440,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7338813,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74351792,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,464388287,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,401556849,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8225,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1674,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2106,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,957378,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24633047,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226757972,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2408855,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101609937,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1782301,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7304516,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24893010,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121123,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14674623,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61679513,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50070180,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,216723400,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2310201335,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5699624931,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66759979,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,586859698,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132546,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18111,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4559,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17526315,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130987735,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1818627843,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5067,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,403030,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40000,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61562,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,227947,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48794,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2903554,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,281149,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5514798,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138177154,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23641,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6501940,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,473725,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2280690,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1657711,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,637648,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,651248834,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2502042821,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161548599,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189753433,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,404999152,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2422761733,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100536546,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,707485544,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,378922560,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156592237,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131654814,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9069901,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19131421,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48482,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,878979630,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1747874323,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5085,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,656033,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148506147,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5736,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140808,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,422059,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1611742595,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1564737879,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,651326119,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7724118724,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17391247,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,320665167,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75912331,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,183358672,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,355260410,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,372490968,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12731982,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3062,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11729812,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13687367,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,478722148,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5367842,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,200231207,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1231148642,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7440237951,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43232227,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,242022640,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,272,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6724551,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,525968,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6100483649,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10770221888,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26114331,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11806337,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59995711,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,774178509,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2067337022,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5640218145,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13431952,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2287792,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3207211786,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6625955250,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3556809,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19190481,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110672359,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,613352405,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,766636706,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41732097,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6212124,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,486133,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,202196044,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166067044,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,493425151,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,897287,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18930,,,0
+H2,2004,2004,2004,0,0,1,Import,643,Russian Federation,RUS,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133291394,,,0
+H2,2004,2004,2004,0,0,2,Export,643,Russian Federation,RUS,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48397411,,,0

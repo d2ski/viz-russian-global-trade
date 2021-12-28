@@ -1,0 +1,405 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,314945094987,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,527265918851,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14279575,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,630974174,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12890289,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,49951347,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4770409,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1584801101,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3787,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,651237,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,262532,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,95099127,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1070,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,100000,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,635868929,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2942532159,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1100104457,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,400128797,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,813755133,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,72034868,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3845967179,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,278775078,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1971313,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13399390,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2829488,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12992553,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,591401579,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,256334132,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,352394588,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,468421366,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,342099,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,121873996,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4034002196,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7726441246,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,457838,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29326,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,94735,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10396423,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4245412,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58972516,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,614697173,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17204119,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3492845077,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1984660462,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3611154,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16268000,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,139,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39013939,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18984,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1906587,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,134211377,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2380,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1567,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,702197269,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1774528528,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35159876,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,78691989,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1253970,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4136819,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13959261778,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16870227717,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,128138064,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5096027,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7307338,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18947070,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1795854681,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,471420574,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2438,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11592,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,56425,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,215,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,402453244,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,330052184,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26416,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,81011,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,694927397,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48804604,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,53173086207,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35625419978,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3732,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,168,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,146963375,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,230016784,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,165657,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,100000,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,175,Mayotte,MYT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14978,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,175,Mayotte,MYT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,335276,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3661672,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5741468,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,206204,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4922567,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1034,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9205366,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,126845501,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50332216,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,392521811,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1338696966,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27615243,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,157495373,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42672634,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1923269309,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5317724129,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4320995746,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,66923,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2152946,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2178374664,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1351822531,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2014,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,278964,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21071406,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11386480,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1290119308,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,193419183,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19582591,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10621598,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2517876,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22440675,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,46191159,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,65603,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4416782,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,788005477,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3747109744,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,111853951,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9673868,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,342,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7664271,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7223,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31160,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5395510734,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12014042108,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13021467978,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5928165586,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4601,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,716225,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,163125,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,586690,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,221147317,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,831083393,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,201923,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,630536,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37904568529,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22962139217,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,94025863,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68822450,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,253814,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,469928016,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,611301293,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5014364870,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1405617,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1364,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,151,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,101200,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,43184,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42628324,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,84979484,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,232973,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3736570,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1573486,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1284050,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,491683,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7241295,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,153,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9544438,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50390884,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,172184365,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3026196941,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3007131253,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5461146268,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,194977655,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16046056,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1727243441,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1233553735,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,432920965,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1168616099,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1704734,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,376851652,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1372263723,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,328808533,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1492853634,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2084818134,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14553947804,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29156005751,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,203066643,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,59308483,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41692713,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13560499940,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19667507623,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5664930616,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17218175411,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10284572,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,170400881,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,134567771,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,199160911,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9290580,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,103426467,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10305436128,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14867070241,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1536064,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32416394,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,110128409,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2029443426,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1588246,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37315568,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17212535,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,512922651,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,247522,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3499,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,802769730,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9836415930,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5160686,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1125748,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,386458418,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1117294588,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4878831219,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,204049982,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13650749,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2346859,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8659173,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5214756,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,60152702,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3536322,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1405624269,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1280376047,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,131058,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4087024,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38262,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20613502,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,51587357,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4084461105,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16537826,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15195550,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23144300,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,377505,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1047560967,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,855361273,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1915059725,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4443361794,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40926820,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1572137135,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,417405645,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,417887927,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9165743,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17769251,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,72,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,565580812,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,859952225,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,52839783,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,78651014,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2623032,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,56795876,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5194011,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8537098,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8192,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,998911,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1602190,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5837158205,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,69259511323,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,299546,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8425,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2342,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,188,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,393413,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15325,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,237610929,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,331733952,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23976594,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37651002,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15564152,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,72576,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31231390,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,267881789,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,93374982,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,531316,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,683,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1753351187,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,809300382,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,170362,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21351,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6216772,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,350006014,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,197068781,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,959933003,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58414966,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7315934,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,183980,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1118115363,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20874456,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,102890064,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,400616606,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,454528709,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1323866406,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8321276518,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19408183622,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,691436655,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,650353555,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15266,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58945,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23071677,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18343384,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2046592177,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1602940132,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2038025,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6458606,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,128056,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3154,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1022879,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15833,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29401204,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4203,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,132955,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,107918,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9353882,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8838204,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7238,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5250,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,288623226,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,789103276,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3030834,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,47282125,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1120065051,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,414932279,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1802500,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2397283,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,217249,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1492878,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3091180111,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6982660212,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,552978928,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1885588862,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3533690439,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5166048788,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2596994747,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1373461303,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1427406599,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,153147817,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12829,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,480633,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,781694164,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,286229138,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19940249,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4638937,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4914629597,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6027059439,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20040,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1409469,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,127148033,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,204921,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,120146,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,409746,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1737572,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3916608825,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4475629307,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3009409044,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8656011789,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16203795,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,360229180,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37883056,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,724360141,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2084099799,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1272942931,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14853630,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,83174910,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6295,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,248972,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,756114296,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,423302907,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2092976310,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,137077009,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,224371207,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7272773494,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15122092256,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,139416948,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1429899555,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,108,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15059472,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24659583,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15790890011,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15215254506,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,70815675,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4235768,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,442100091,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2503412474,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8106431070,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12354671524,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68214068,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,100049471,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16717711021,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11177056153,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,46835,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5235228,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,325241415,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,80367756,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1256885427,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2803910147,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4102071,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2446530407,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,686,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,449092,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,217545682,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13543003,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,259878,,,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,221870023,,,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,67282795218,,,0
