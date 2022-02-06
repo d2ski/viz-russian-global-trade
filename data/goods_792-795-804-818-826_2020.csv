@@ -1,0 +1,775 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,521969,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,5906,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,111674,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,3317334,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,1002396,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,4236524,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,112203,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0,,654107,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0,,200605,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0,,107462525,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0,,151158,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,132420742,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,217048,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,68444,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,41814522,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,1419,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,39876288,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,9129500,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,2194238,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,46245434,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,214615,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,6944836,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,2027885,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,1349313,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,2445592,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,519602,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,15831,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,300023,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,49354,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,58438,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,823386,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,357091,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,84,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,86960,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,158854205,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,50174580,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,23788026,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,11204993,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,265738,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,38724553,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,142217220,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,3858555,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,71174,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,2825312,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,1075548482,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,1890,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,425245,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,288979,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,7154608,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,18374515,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,265209475,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,8467,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,4358444,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,45061,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,777490,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,383372,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,23849264,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,703129,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,10320541,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,221420,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,2482756,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,1908153351,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,5064753,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,7293014,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,16442280,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,1796954469,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,2621,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,6075914,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,1150112,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,22211714,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,4087881,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,835701,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,15018777,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,6295,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,1038314,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,97,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,95231928,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,298431643,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,1013109,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,7236865,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,9466263,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,6196818,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,4742000,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,1155520,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,670055,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,1152975,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,59949,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,414179,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,962388,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,63107,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,4602057,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,31439,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,12048,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,5299100,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,113,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,2939,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,44691,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,645,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,681,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,83185,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,806494,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,457156548,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,48165722,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,1649509,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,45746345,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,257005,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,143062481,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,3715044,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,7611360,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,11117,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,542339,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,18590,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,35471040,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,259168,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,18763990,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,48389930,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,23474872,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,38778,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,42011437,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,1404,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,160255,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,2791405,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,446184,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,6555787,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,560542,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,127939,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,6274984,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,36421094,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,28551606,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,1023,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,1546679,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,6432874,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,2207774,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,13156556,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,1393557,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,24110,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,8133359,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,1666856,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,34228718,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,1094486,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,62633,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,12118635,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,2372448,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,23119856,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,333312,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,350906,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,1815137,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,29716933,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,1770172,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,13181045,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,896786,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,20616211,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,12434961,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,11815936,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,16737654,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,68911756,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,2031806,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,1533271,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,70071388,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,1341671,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,121538,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,20565010,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,11745203,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,1747778,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,66269664,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,18037,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,3100,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,298998278,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,35233439,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,2384776,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,268474240,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,152370,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,6023455,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,44123257,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,1631,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,2754385,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,24726809,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,16615339,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,30139911,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,30584288,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,2769807,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,40550193,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,267986,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,33016,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,43179,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,59865552,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,8265718,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,9302,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,1564050,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,97505131,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,44635450,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,4310674,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,6015602,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,3168389,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,167843,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,161702,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,97594827,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,94,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,5168,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,63831787,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,204627724,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,46378320,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,17554,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,56551615,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,9786413,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4352731579,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1520536,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,6901738,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,143204974,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2349675887,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1311976,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,162503660,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,17002904,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2454974194,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,39699347,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,175519310,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,1983980,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,1463289,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,652960037,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,215568755,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,15600,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,10122532,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,14782260,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,21988688,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,7681596,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,187045051,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,1014884,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,17164639,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,71854409,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,7552303,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,80051214,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,11747530,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,33967384,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,1236446,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,39030924,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,15626880,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,161663630,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,4092666,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,687847,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,309156975,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,3406778,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,2392935,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,51968617,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,8186848,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,2474934,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,16793369,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,1213607,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,3405288,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,33378461,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,27355159,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,21189876,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,79875,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,1606058,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,10884666,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,25920955,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,410344,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,58460,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,89379071,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,219225,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,41602823,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,7442503,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,11532573,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,12947957,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,84677824,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,426492,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,130566,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,128585012,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,6227451,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,52569402,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,4188924,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,7599971,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,4457569,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,39546084,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,6271630,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,202359,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,53054157,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,13563358,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,10328319,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,32103,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,780657,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,5614153,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,5959261,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,918833,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,57749,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,12184302,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,191402,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,38473,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,132800,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,557115,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,147576,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,689661,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,1005124,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,73755,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,156255,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,12619,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,45892,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,1628949,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,1840973,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,11055,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,41955354,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,12840916,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,30996137,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,20631529,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,75199334,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,2341059,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,23119049,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,142345514,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,1202517,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,221847388,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,222758378,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,54753451,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9694049,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,154386518,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,295955481,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8200572,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6068392,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,141783590,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,26479759,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,98689259,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,86238321,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,11937025,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,21398028,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,101969188,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5836103,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,16767802,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,43624434,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,10183181,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,2651522,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,152900,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,204169,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,1603950,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,869,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,106,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,12647618,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,69092,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,17591,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,2463981,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,3075276,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,14,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,728502,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,1150640,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,234080,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,16844891,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,108730,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,1121,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,97583,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,103779,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,258816,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,13269379,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,38579136,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,20700182,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,20066781,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,49531114,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,262516034,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,467679,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,168616605,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,48614,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,38,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,111648,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,56775,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,60977,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,0,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,19158,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,187924,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,53449,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,48389,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,16491841,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,368784,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,25411754,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,173,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,1461008,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,24285537,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,93864344,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,113,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,7152232,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,53609887,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,117326936,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,25034,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,27201380,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,25075161,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,22490530,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,3143977,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,52195,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,16071,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,187027,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,25362141,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,5778118,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,392,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,279590,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,14575159,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,364801,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,725,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,1526,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,180958,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,1104884,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,59379,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,1545417,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,8054,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,451931,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,301824,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,139677,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,699581,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,26846614,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,24811,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,19235385,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,5962,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,770478,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,10376685,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,341633,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,15,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,2616825,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,17,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,375883,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,612635,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,180502,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,147503,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,6715,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,27817273,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,2368732,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,4357703,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,44005,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,2142756,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,3822193,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,905689,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,10982728,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,17,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,33955146,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,3248721,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,3115180,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,2796919,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,1539128,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,61,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,18101714,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,2491425,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,400899,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,471505,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,4688142,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,20400136,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,22673,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,4956,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,4326367,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,174036,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,19571533,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,637,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,13961,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,2672518,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,2058714,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,2419108,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,78,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,10526898,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,399427,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,14594448,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,8348,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,162556,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,3619,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,654254,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,1548178,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,4258,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,3,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,564058,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,86,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,8849523,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,161001,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,20600,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,445499,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,1226973,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,9966623,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,26248,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,6561,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,1791936,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,54922921,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,20241,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,54010,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,3468,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,255115,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,6777921,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,467895,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,234688867,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,248315,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,410706,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,38554,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,4769114,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,20819601,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,4161822,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,240,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,2128686,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,792403,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,212323925,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,68317,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,2602788,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,457061,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,2454605,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,12565745,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,13954237,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,11244,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,2952695,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,2381162,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,28310265,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,255377,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,12465838,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,1215536,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,9755669,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,10041410,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,97541,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,2431,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,7302127,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,770033,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,87020626,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,20573,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,202841,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,26604,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,4380150,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,23560902,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,401,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,1390120,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,170304,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,2195806,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,1168,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,3311,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,434391,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,958587,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,2651,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,517576,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,14565,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,81156,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,435,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,1134603,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,158097,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,15629,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,654,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,19062,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,2106,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,588558,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,547102,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,43166,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,17576,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,15463684,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,823294,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,2711,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,1968608,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,31328870,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,40208527,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,351075,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,64875,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,11443435,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,6007105,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,19154595,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,630791,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,372799,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,40793106,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,18343254,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,2741712,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,38583,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,6789461,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,1012343,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,29002377,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,23751765,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,1039730,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,11706796,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,81112838,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,1927788,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,1027491,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,7599076,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,11947027,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,3068092,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,400406441,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,914,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,158690,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,1029358,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,201,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,13425645,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,19224339047,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,26277855,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,2318164885,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,101728295,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,778129015,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,210603745,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,184626193,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,9419866,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,47631128,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,169982547,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,88285627,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,315679,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,144313311,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,238597859,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,87885726,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,116075,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,28197327,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,74472137,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,4054490,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,26571090,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,377719536,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,322561,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,16123434,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,18447016,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,309305218,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,30151761,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,2442677,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,671963,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,35191,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,1508,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,3439154,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,15633031,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,32662,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,4850776,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,92549,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,27059446,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,801860210,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,1411521,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,20178916,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,97590399,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,721,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,412286,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,8077023,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,42527120,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,6163,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,20212837,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,32589,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,181292,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,3640688,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,39,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,425793,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,8785663,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,460059,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,2144,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,55118,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,309385,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,711211,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,4324,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,1820551,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,110770,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,32686,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,7803,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,758711,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,16864,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,16541559,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,9361625,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,80,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,46122,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,3632367,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,27873050,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,17448677,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,9286296,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,11491,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,1524787,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,16469355,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,15323890,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,876,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,1296934,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,9354564,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,213461,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,82029731,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,4526713,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,1673424,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,25921587,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,15821978,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,71,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,459494,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,8307079,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,82769,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,725565498,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,140480097,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,616784,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,20652365,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,569871872,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,472883830,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,6043788,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,13842660,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,708818480,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,33344270,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,239916887,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,26524582,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,44,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,7849295,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,154582059,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,180014244,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,26645121,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,114143697,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,167881593,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,19769379,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,6227336,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,11700,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,2669398,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,174022747,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,42062134,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,120338653,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,487995,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,822555,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,410673762,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,10795921,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,48783131,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,36704425,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,89651408,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,84479,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,93264906,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,473761833,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,7290689,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,77590826,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,44091918,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,195208815,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,5495846,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,33959400,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,2374105,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,19797479,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,732262,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,20234921,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,7017290,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,2184,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,5739975,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,25767069,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,44136920,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,858305,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,11284901,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,171171938,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,8392167,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,48233,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,1412,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,2190,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,61142,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,449800,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,171734,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,956753,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,88623,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,10030,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,139,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,165852,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,213992,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,612,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,3034,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,377941,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,29393,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,48022248,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,187144,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,3774,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,1239014,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,20875930,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,33543679,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,220840,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,394646,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,21283447,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,5433037,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,2110365,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,150099,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,596,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,132919,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,16801972,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,12137863,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,43408,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,3735917,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,5235631,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,19559706,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,1370264,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,28,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,480503,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,284747,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,31150613,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,318851,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,958,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,4631137,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,352232,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,10925,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,2335,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,7199,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,1269,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,903252,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,57064,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,55095217,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3136195827,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,724570,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,501833,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2029362,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,612769281,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,7622409,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,743640021,,,0

@@ -1,0 +1,672 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0.0,,1488,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0.0,,981,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0.0,,12998,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0.0,,20452502,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0.0,,356356,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0.0,,39646,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0.0,,32106,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0.0,,2091534,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0.0,,200175,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0.0,,1499,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0.0,,176946,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0.0,,1537099,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0.0,,153698,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0.0,,282638,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0.0,,805849203,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0.0,,2082,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0.0,,12761,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0.0,,7440161,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0.0,,2092596,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0.0,,64938909,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0.0,,1480,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0.0,,4625583,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0.0,,11836,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0.0,,55423,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0.0,,1119036,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0.0,,3013943,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0.0,,48724,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0.0,,244164,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0.0,,965197,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0.0,,126330201,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0.0,,97296,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0.0,,35182,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0.0,,521215,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0.0,,61864,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0.0,,5210134,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0.0,,3042404,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0.0,,17716658,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0.0,,3933329,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0.0,,189411,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0.0,,5417,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0.0,,46100,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0.0,,207649732,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0.0,,102795,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0.0,,643986,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0.0,,147213,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0.0,,9273,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0.0,,6673625,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0.0,,16240743,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0.0,,581938,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,10,Cereals,1,No Quantity,0,,,,0.0,,12038693,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,10,Cereals,1,No Quantity,0,,,,0.0,,1228660,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,10,Cereals,1,No Quantity,0,,,,0.0,,111147,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,10,Cereals,1,No Quantity,0,,,,0.0,,113381,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,10,Cereals,1,No Quantity,0,,,,0.0,,493653,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0.0,,360,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0.0,,1841124,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0.0,,22140,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0.0,,693531,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0.0,,18908,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0.0,,7558559,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0.0,,7616422,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0.0,,1066169,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0.0,,1099500,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0.0,,2349,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0.0,,30271,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0.0,,704397,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0.0,,1759235,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0.0,,806474,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0.0,,8924626,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0.0,,16104630,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0.0,,1359,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0.0,,1969,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0.0,,33494,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0.0,,8176,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0.0,,1704544,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0.0,,186221,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0.0,,1879,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0.0,,55318420,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0.0,,28103161,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0.0,,27000,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0.0,,544274,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0.0,,6220,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0.0,,5557932,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0.0,,43400678,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0.0,,40150555,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0.0,,9001,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0.0,,106233,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0.0,,3333827,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0.0,,902762,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0.0,,470072,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0.0,,235990,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0.0,,121712,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0.0,,828664,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0.0,,3976619,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0.0,,13837211,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0.0,,3035641,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0.0,,81043435,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0.0,,26574,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0.0,,1623,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0.0,,1593924,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0.0,,18547,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0.0,,9492039,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0.0,,18610622,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0.0,,16342990,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0.0,,4373357,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0.0,,22176,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0.0,,264937,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0.0,,2352265,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0.0,,70113,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0.0,,11463477,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0.0,,65004035,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0.0,,6274420,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0.0,,800702,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0.0,,16756,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0.0,,98632,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0.0,,29164,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0.0,,2159784,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0.0,,954042,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0.0,,58484698,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0.0,,24429,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0.0,,29691989,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0.0,,149674,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0.0,,21186,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0.0,,852699,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0.0,,99443,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0.0,,15067,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0.0,,24939049,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0.0,,30769326,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0.0,,502088,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0.0,,22048,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0.0,,6247,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0.0,,13371,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0.0,,579549,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0.0,,127672,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0.0,,15161372,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0.0,,4279796,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0.0,,26858149,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0.0,,2816508,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0.0,,7491828,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0.0,,1,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0.0,,1584,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0.0,,4949,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0.0,,1545689,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0.0,,37193306,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0.0,,85157864,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0.0,,1688871,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0.0,,320984,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0.0,,698482,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0.0,,4909229,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0.0,,3772203,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0.0,,37683628,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0.0,,3531782,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0.0,,526118,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0.0,,14538,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0.0,,35006,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0.0,,276046,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0.0,,7404618,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0.0,,9437082,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0.0,,1560796,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0.0,,7658970,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0.0,,505301,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0.0,,618,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0.0,,18490032,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0.0,,70067966,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0.0,,5214855,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0.0,,831003159,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0.0,,2243832003,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0.0,,50820,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0.0,,1274396720,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0.0,,47647123,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0.0,,42928596,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0.0,,17532987806,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0.0,,848661,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0.0,,2432867,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0.0,,40768,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0.0,,1402527,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0.0,,1628176,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0.0,,414,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0.0,,3480309,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0.0,,16801828,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0.0,,49067962,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0.0,,16139182,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0.0,,1416182,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0.0,,10396171,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0.0,,13520997,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0.0,,11799768,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0.0,,83524796,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0.0,,60,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0.0,,625495,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0.0,,77021972,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0.0,,342212983,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0.0,,81449,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0.0,,10639,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0.0,,5625085,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0.0,,1259143,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0.0,,288786,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0.0,,2919969,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0.0,,24697515,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0.0,,287651742,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0.0,,8368311,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0.0,,10940,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0.0,,20398387,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0.0,,4223,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0.0,,342934,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0.0,,4168951,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0.0,,50636637,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0.0,,4594308,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0.0,,14805800,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0.0,,10701941,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0.0,,28758,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0.0,,9712854,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0.0,,62363,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0.0,,3703219,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0.0,,49381615,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0.0,,316631,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0.0,,18315668,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0.0,,280643,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0.0,,6516033,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0.0,,464520,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0.0,,72900,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0.0,,8356779,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0.0,,24922347,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0.0,,22921943,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0.0,,24313034,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0.0,,27037,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0.0,,14710,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0.0,,1740193,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0.0,,21914,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0.0,,5882,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0.0,,4104712,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0.0,,72568210,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0.0,,1455002,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0.0,,3016209,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,,,28465,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0.0,,920437,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0.0,,272753,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0.0,,47672469,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0.0,,50992,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0.0,,1710800,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0.0,,2478210,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0.0,,261838,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0.0,,21582,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0.0,,344871,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0.0,,3889461,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0.0,,2976,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0.0,,10651441,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0.0,,72307,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0.0,,25902324,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0.0,,282048,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0.0,,7827,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0.0,,1692517,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0.0,,14428938,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0.0,,98383,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0.0,,28834,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0.0,,9677045,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0.0,,87199425,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0.0,,19363553,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0.0,,17587167,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0.0,,1665740,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0.0,,295320,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0.0,,4721,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0.0,,81805837,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0.0,,626380,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0.0,,8004355,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0.0,,22010103,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0.0,,322469722,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0.0,,5526420,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0.0,,216608690,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0.0,,7976946,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0.0,,373447,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0.0,,36537803,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0.0,,7538687,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0.0,,6555,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0.0,,11059032,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0.0,,18784960,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0.0,,16431285,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0.0,,739,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0.0,,473749,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0.0,,488224,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0.0,,256890,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0.0,,55687,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0.0,,111,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0.0,,78,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0.0,,849167,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0.0,,3906,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0.0,,122221,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0.0,,195181,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0.0,,342465,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0.0,,235261,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0.0,,66,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0.0,,174702,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0.0,,954,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0.0,,6012,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0.0,,204557,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0.0,,3161769,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0.0,,225277,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0.0,,369642,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0.0,,5282283,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0.0,,10085,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0.0,,13399172,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0.0,,2037924,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0.0,,128681895,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0.0,,2580,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0.0,,5538,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0.0,,4471,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0.0,,72,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0.0,,100,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0.0,,545900,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0.0,,1388,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0.0,,11733,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0.0,,204,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0.0,,5234693,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0.0,,4153233,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0.0,,10406,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0.0,,57721,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0.0,,1118724,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0.0,,2194753,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0.0,,4965137,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0.0,,12032,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0.0,,749204,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0.0,,1770175,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0.0,,7890790,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0.0,,4326177,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0.0,,13905322,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0.0,,42490933,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0.0,,9036132,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0.0,,437837,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0.0,,9053,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0.0,,55078,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0.0,,318260,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0.0,,5023,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0.0,,59720,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0.0,,1761347,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0.0,,2540755,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0.0,,30268,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0.0,,9,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0.0,,77613,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0.0,,17261,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0.0,,220,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,52,Cotton,1,No Quantity,0,,,,0.0,,2100671,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,52,Cotton,1,No Quantity,0,,,,0.0,,4670,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,52,Cotton,1,No Quantity,0,,,,0.0,,91897,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,52,Cotton,1,No Quantity,0,,,,0.0,,4741676,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,52,Cotton,1,No Quantity,0,,,,0.0,,796321,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0.0,,308706,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0.0,,20119,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0.0,,18943,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0.0,,24368,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0.0,,10830,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0.0,,100356,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0.0,,636980,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0.0,,3,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0.0,,3770313,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0.0,,1188721,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0.0,,200723,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0.0,,13003171,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0.0,,900547,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0.0,,353293,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0.0,,5873493,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0.0,,223098,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0.0,,521454,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0.0,,56,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0.0,,121007,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0.0,,180,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0.0,,37,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0.0,,2740918,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0.0,,7327,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0.0,,908297,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0.0,,7494469,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0.0,,230162,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0.0,,1878,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0.0,,235645,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0.0,,606222,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0.0,,12073320,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0.0,,194546,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0.0,,7782,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0.0,,460101,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0.0,,1205,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0.0,,70897,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0.0,,566245,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0.0,,42,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0.0,,794380,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0.0,,31148,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0.0,,1252171,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0.0,,558057,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0.0,,450176,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0.0,,5873824,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0.0,,43810,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0.0,,1068654,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0.0,,8518212,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0.0,,700441,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0.0,,2820450,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0.0,,140,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0.0,,71699,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0.0,,1629615,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0.0,,20935,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0.0,,16409099,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0.0,,606151,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0.0,,190061,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0.0,,326485,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0.0,,622914,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0.0,,2213,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0.0,,22226,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0.0,,330735,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0.0,,12366,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0.0,,6144583,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0.0,,596394,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0.0,,237913,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0.0,,5336,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0.0,,704402,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0.0,,1147,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0.0,,3802,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0.0,,4284383,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0.0,,1983,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0.0,,2118750,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0.0,,569042,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0.0,,17621216,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0.0,,291202,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0.0,,305047,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0.0,,4653,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0.0,,1515,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0.0,,367742,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0.0,,79843,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0.0,,5914806,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0.0,,447881,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0.0,,84663,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0.0,,115363,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0.0,,557639,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0.0,,60,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0.0,,2029,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0.0,,3299921,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0.0,,271,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0.0,,420,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0.0,,154273,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0.0,,11146,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0.0,,21122,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0.0,,37,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0.0,,233050,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0.0,,1824,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0.0,,26463,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0.0,,21918,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0.0,,70731,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0.0,,44548,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0.0,,1567,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0.0,,23393,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0.0,,328910,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0.0,,3179,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0.0,,1836887,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0.0,,33195,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0.0,,8582182,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0.0,,7811933,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0.0,,2390802,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0.0,,133078,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0.0,,44,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0.0,,71,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0.0,,369194,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0.0,,28352,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0.0,,3018371,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0.0,,17221040,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0.0,,190230,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0.0,,244905,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0.0,,89761,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0.0,,13403,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0.0,,7740275,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0.0,,14910,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0.0,,4740631,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0.0,,10194169,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0.0,,21251022,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0.0,,3408714,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0.0,,120269,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0.0,,4299743,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0.0,,120322,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0.0,,3003578,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0.0,,16226,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0.0,,5922290,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0.0,,533838,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0.0,,1782789,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0.0,,16017279,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0.0,,7265346,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0.0,,1322084,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0.0,,48434976,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0.0,,1557108591,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0.0,,2387718,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0.0,,15754997,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0.0,,14709209,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0.0,,422978886,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0.0,,5917087,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0.0,,1163981,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0.0,,221142,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0.0,,66083396,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0.0,,3230102,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0.0,,2433622,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0.0,,12836502,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0.0,,71692002,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0.0,,11732868,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0.0,,7000305,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0.0,,15151,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0.0,,1830,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0.0,,1521278,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0.0,,584283,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0.0,,2417185,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0.0,,4091946,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0.0,,103797230,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0.0,,1707388861,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0.0,,58903,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0.0,,526,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0.0,,1904,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0.0,,10612,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0.0,,26300,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0.0,,3671342,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0.0,,1387726,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0.0,,2365522,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0.0,,1198971240,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0.0,,1055752,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0.0,,15667216,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0.0,,6134,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0.0,,79,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0.0,,3845258,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0.0,,115210280,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0.0,,489470,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0.0,,5825210,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0.0,,22514238,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0.0,,637353284,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0.0,,1458592,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0.0,,240,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0.0,,10297,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0.0,,1668703,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0.0,,474,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0.0,,8,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0.0,,52320,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0.0,,8357,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0.0,,23968,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0.0,,17284607,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0.0,,6448,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0.0,,8833,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0.0,,13192,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0.0,,2688,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0.0,,1350,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0.0,,3788,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0.0,,8299,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0.0,,44133,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0.0,,274528,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0.0,,82979,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0.0,,1497019,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0.0,,2022381,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0.0,,385828,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0.0,,795019,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0.0,,121145844,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0.0,,618314,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0.0,,60812,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0.0,,88746333,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0.0,,27850,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0.0,,344092,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0.0,,691764,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0.0,,7955283,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0.0,,1044071,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0.0,,1002319,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0.0,,3617,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0.0,,8976,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0.0,,9509833,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0.0,,12950,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0.0,,1020764,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0.0,,1460997,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0.0,,26889670,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0.0,,375419,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0.0,,202679218,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0.0,,3716068,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0.0,,1571036,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0.0,,230675,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0.0,,683432296,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0.0,,3066283,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0.0,,8459486,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0.0,,40793994,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0.0,,850956259,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0.0,,79621832,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0.0,,667996447,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0.0,,5396232,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0.0,,1488571,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0.0,,17979,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0.0,,660314897,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0.0,,7171767,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0.0,,13246982,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0.0,,42196192,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0.0,,194136634,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0.0,,25567385,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0.0,,677217,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0.0,,27950,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0.0,,19726,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0.0,,88585,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0.0,,179801,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0.0,,183368,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0.0,,585773,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0.0,,24365389,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0.0,,12443,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0.0,,138,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0.0,,55858149,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0.0,,26916,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0.0,,53820,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0.0,,9351463,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0.0,,377017506,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0.0,,8381197,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0.0,,117954,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0.0,,1691341,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0.0,,3838489,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0.0,,10918,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0.0,,50931438,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0.0,,29304794,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0.0,,93468314,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0.0,,6373212,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0.0,,1128415,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0.0,,2011291,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0.0,,52355100,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0.0,,814370,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0.0,,3897555,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0.0,,3276987,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0.0,,115532820,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0.0,,12397226,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0.0,,63855,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0.0,,431845,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0.0,,62437,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0.0,,75434,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0.0,,1611,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0.0,,3829779,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0.0,,2216,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0.0,,815,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0.0,,617860,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0.0,,7508,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0.0,,30106,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0.0,,466403,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0.0,,31919,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0.0,,7315063,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0.0,,158626,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0.0,,12377,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0.0,,54728,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0.0,,12599025,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0.0,,8983,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0.0,,130559,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0.0,,4782726,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0.0,,35272867,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0.0,,4653717,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0.0,,10032649,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0.0,,21637,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0.0,,7610,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0.0,,17593128,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0.0,,121453,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0.0,,19760,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0.0,,774337,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0.0,,1509629,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0.0,,1515508,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0.0,,2536711,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0.0,,14973,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0.0,,5336379,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0.0,,24465,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0.0,,580943,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0.0,,3888218,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0.0,,15846465,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0.0,,220332,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0.0,,1420,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0.0,,78110,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0.0,,3474,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0.0,,433953,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0.0,,7942,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0.0,,315869,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0.0,,67491044,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0.0,,281053,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0.0,,4274570,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0.0,,5385,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0.0,,10376864,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0.0,,454879993,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0.0,,15745069,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0.0,,1303345322,,,0

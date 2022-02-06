@@ -1,0 +1,643 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,40213799,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,182055,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,553,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,10377785,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,72210,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0,,356096,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0,,10668,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0,,64338346,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0,,1254161,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,4075,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,39440665,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,16639,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,3006076,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,32572310,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,306135,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,4761,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,14901774,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,1168462,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,7935216,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,6908,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,24592970,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,1108636,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,173927,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,27612807,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,136116,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,18750,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,1036,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,10910445,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,6381857,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,11770755,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,3719,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,12862,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,1569738,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,345247,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,69796,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,12675602,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,1613,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,6846,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,47438322,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,3800973,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,222960,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,12014,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,348108,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,4174,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,133682,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,4545121,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,4377591,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,34451242,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,52642579,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,103975,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,18836104,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,2180024,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,2387,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,148879,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,1915556,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,12909,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,134053,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,75640456,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,22003274,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,91194,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,1508226,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,237014,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,15590916,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,1384567,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,27370229,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,30476,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,8369,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,48970,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,1,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,106355,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,186479,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,1643199,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,1726,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,13361376,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,11739737,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,8473883,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,1681,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,2215884,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,79034,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,3432,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,400869,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,172784,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,52405,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,22892,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,2976735,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,93017,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,32274399,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,10414521,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,167710,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,3816894,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,457930,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,17440,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,8649687,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,352411,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,202234314,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,9839607,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,326081,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,79785,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,26591,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,10504682,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,94455,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,106252546,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,6940766,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,1494620,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,47086,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,1999754,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,228206,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,2829318,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,32936,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,38810341,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,18268758,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,21065308,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,46155,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,9774,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,15614158,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,134967,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,298443870,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,5900513,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,612238,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,19690,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,119313,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,79966,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,27811958,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,681319,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,222665175,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,25077497,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,4797685,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,462777,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,121818,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,15448,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,3455475,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,678253,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,85989399,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,48947120,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,20830,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,5648157,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,22580990,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,2574185,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,40024070,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,24899794,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,6926959,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,7691,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,7000,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1459045,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,13409158,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,9972758,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,3399203,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,1312907,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,63707,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,1419111,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,1491,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,878685,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,3366731,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,158426034,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,46849729,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,121827279,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,9082420503,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,292,Gibraltar,GIB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,597806927,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,199656,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1846516566,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,68104347,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,155930583,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4238030,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1173046328,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,111825174,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,141459830,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,631464,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,4608214,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,675177,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,3743463,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,2319959,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,62705188,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,490451487,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,19586925,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,152459,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,1485128,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,3037635,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,1768,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,59867390,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,3938050,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,2066637747,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,16984772,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,18526367,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,655682,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,47164,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,4238078,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,296797176,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,2504004,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,7158433,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,28941477,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,15870685,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,128108093,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,2685,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,10509718,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,329731663,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,2114302,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,9408561,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,122717,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,666370,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,759601,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,3155025,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,61275,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,341900409,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,12037938,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,5590976,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,29007,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,68367,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,7643818,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,17761325,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,1551026,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,300128693,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,3554704,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,292,Gibraltar,GIB,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,633,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,1485571,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,18134,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,88115,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,1477433,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,31975148,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,62398,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,119881071,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,277799,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,416,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,476,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,1963,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,1080093,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,7854384,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,91611,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,81194,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,151984,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,284158,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,116587,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,463754,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,32930257,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,381617,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,174184,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,607007864,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,49567967,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,14412176,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,384158,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,565166,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,106363,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,30492361,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,732895,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1548397644,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,61195984,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,292,Gibraltar,GIB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2826,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,23541181,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,565037,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6898691,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,930224,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,67877845,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7595320,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,320485179,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,167959059,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,161802,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,13802665,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1552445,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1955047,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,29743757,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,61765267,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,1601789,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,29874,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,69078,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,12144,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,75168,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,47821,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,12119545,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,995730,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,8451,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,2479,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,2523150,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,1156433,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,1499606,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,1775,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,670895,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,4208706,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,4449903,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,708136,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,113259,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,40969,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,1092,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,58070911,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,331492014,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,53327,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,12645737,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,387521,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,788047,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,3894802,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,16780326,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,175506,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,89,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,1861,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,5790,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,37,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,33945,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,130213,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,3813,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,37995,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,3150,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,5193337,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,27019609,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,1423300,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,383887433,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,96435135,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,1003616,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,9327276,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,2247748,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,2447172,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,16553067,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,2586022,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,22578711,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,4993153,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,292,Gibraltar,GIB,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,140,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,571326,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,107892,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,592698,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,62005,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,788202,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,18319,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,26696,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,9549,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,559991,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,186282,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,489184,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,3454,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,2410212,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,5924,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,162501,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,84430,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,91958,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,3227,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,126214,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,272781,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,220867,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,908689,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,1910,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,16126,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,178,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,92,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,10200,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,16895471,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,267074,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,387119,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,1373783,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,80433,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,528,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,250216,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,29,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,29391964,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,3329972,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,24664,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,11,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,47184,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,1728,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,51344,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,31699005,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,1303285,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,772077,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,142848,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,456027,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,159899,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,14346244,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,156843,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,3906361,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,110731,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,594920,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,5142,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,5248,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,114081,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,5681,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,1964477,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,80248,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,962418,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,4955,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,241417,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,2165,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,51824,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,1587,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,41541508,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,58673,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,38026,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,172,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,297630,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,1000,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,160922,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,1550,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,2982243,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,3595,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,1377412,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,381958,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,1417354,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,12454601,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,545211,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,1701173,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,422,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,1704262,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,39529,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,1935628,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,77401,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,5110230,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,487063,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,1049140,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,12263,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,1715676,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,215562,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,4235758,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,536211,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,30218452,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,11139442,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,390624,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,2567,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,987267,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,1449072,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,1186969,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,706400,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,10387003,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,279985,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,864126,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,7613107,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,470901,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,10758412,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,36518,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,1806244,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,77508,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,10433,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,10743,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,183714,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,248,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,22346,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,14,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,241983,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,3152,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,134726,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,4,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,45339,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,14918,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,2464,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,386513,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,62898,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,66460261,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,10222438,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,292,Gibraltar,GIB,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,17,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,3882113,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,768089,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,712376,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,44738,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,14439871,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,1570308,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,105073916,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,17727246,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,25240,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,514,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,1393955,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,482978,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,3324130,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,3148,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,78575989,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,45451233,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,60825,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,1340953,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,1028469,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,18701,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,6763747,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,3784624,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,20062510,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,880272234,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,114511,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,6561,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,915028,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,801469851,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,715339,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,5890,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,147229773,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,229745055,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,292,Gibraltar,GIB,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,7685,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,654537,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,10268860,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,187323,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,91556946,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,6263814,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,12026222,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,647756994,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,40500523,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,292,Gibraltar,GIB,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,2383,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,1338511,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,1385096,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,3334105,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,864916,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,22317780,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,4546020,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,197920560,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,390305866,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,25247828,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,12752,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,217853,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,232442,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,753585,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,3579,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,18059828,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,2503516,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,4471,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,172874,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,784941,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,110649895,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,144642181,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,7223438,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,137252857,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,323208,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,426351,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,5098151,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,1509907,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,393368,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,17047819,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,17742,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,465437,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,39415,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,5123927,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,171652,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,9851,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,138726,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,122451,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,1281871,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,3555,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,125231,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,32,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,17230278,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,144010692,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,75257,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,7589,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,106589,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,50813,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,230331759,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,3804958,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,9661179,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,9484,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,1664586,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,124585,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,3611761,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,100811,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,196475899,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,1794994,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,917277,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,16199,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,1140216,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,3584146,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,8698065,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,77728,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,5896210001,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,226814423,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,292,Gibraltar,GIB,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,61,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,16853504,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,2648117,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,221286569,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,6811361,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,578449702,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,92429763,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,1811246952,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,148341483,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,15392500,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,2030267,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,67394063,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,32514058,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,235666038,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,11630502,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,57697011,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,4837252,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,22634,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,8623,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,26398989,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,10574465,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,2813209637,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,38599656,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,812981,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,4702,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,1303496,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,2449915,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,192385104,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,719364,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,76513157,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,83499782,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,150,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,14679930,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,34208,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,317,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,36680,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,1361837942,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,90880677,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,614076,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,380549,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,5261690,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,5574885,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,34717839,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,2160468,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,2520719,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,422890,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,3,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,1338928,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,424722,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,196737,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,9317638,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,1110111,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,422,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,293717,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,87418,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,809,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,166624109,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,59215169,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,980975,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,221757,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,4170802,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,69674,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,24245151,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,5045329,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,15883644,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,3610285,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,932405,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,24046,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,6646138,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,2548048,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,36056134,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,83870,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,60954048,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,2924509,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,803257,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,237632,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,963665,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,362371,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,96299937,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,190210,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,177930,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,307127,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,685,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,22965,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,50718,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,853755810,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,5523441397,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,117286,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,337727092,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,371332,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,570038044,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,447759,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1099923359,,,0

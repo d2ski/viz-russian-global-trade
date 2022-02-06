@@ -1,0 +1,654 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,1322521,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,48745,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,5448,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,3466206,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,2650947,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0,,330891369,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0,,125713,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0,,534787996,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0,,62558869,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,651369,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,80754,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,108830975,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,70765131,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,6332756,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,4976768,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,4093565,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,2061159094,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,44269025,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,68201,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,1575545,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,9911467,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,221023,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,4457806,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,3690859,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,8351927,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,3599,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,1335,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,149666541,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,782580,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,214922,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,85077,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,1651113,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,132925884,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,21577028,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,40232,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,142019,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,47842366,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,21522,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,81525334,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,21443022,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,3870648,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,137584224,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,100820,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,166470,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,3767874,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,60033470,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,1767,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,5355285,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,157713,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,47358518,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,1980890,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,1488526,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,32118655,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,9461756,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,136843,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,97094,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,19487875,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,431,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,137996,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,19576938,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,28017382,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,1625259,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,64310342,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,566239444,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,914617,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,141551116,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,6630174,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,187502142,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,782482,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,24700,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,37171,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,133514,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,50975,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,1988991,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,4618545,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,6412,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,19192,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,131288,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,156925,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,8718118,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,84683,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,6415790,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,71188,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,29396,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,166637063,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,118406419,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,2255812,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,130981,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,324175531,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,27680845,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,13054154,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,3947893,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,2071560,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,1749397,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,966336,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,42995,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,71500111,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,53491524,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,41095920,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,37216,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,214072,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,11311704,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,342450,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,59337907,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,67913261,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,22069893,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,42,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,1884622,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,411697,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,48773472,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,137668763,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,17029930,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,20013,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,58765662,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,4427036,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,434466,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,87796742,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,91103771,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,10808728,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,587434,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,78246185,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,1991255,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,6814889,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,1245724,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,63463227,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,151726492,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,47017353,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,349124,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,67059,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,156599,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,2566599,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,3034520,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,75238491,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,67924075,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,37877605,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,7442508,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,12967881,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,8032198,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,1491,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,189539473,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,112057612,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,827453,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,588661,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,150457446,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,12541,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,9523008,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,450798,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,39840637,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,547944,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,89178070,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,3716021,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,12677098,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,92,Br. Virgin Isds,VGB,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,1200491,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,1555710,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,34204,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,124382505,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,129626461,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,15562,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,34872338,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,23500,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,14645598,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,20,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,1365920,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,4326514,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,93390340,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2570934136,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,15834,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,309467955,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,252356,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,904932535,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,184760382,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3760160952,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,14655310,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,80125542,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,61890289,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,13319568,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,92,Br. Virgin Isds,VGB,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,6159842,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,387190,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,65194784,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,30891194,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,151041151,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,151974858,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,18172789,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,25914102,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,19139505,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,92,Br. Virgin Isds,VGB,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,967498,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,2176437,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,3733563,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,44284559,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,212012040,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,143688055,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,109589,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,15177974,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,235810,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,106256703,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,199861,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,221001604,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,116839200,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,9022062,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,87908134,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,8287,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,1390111387,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,364,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,14328466,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,23923090,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,81628432,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,69721677,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,589702,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,739338,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,4713288,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,1519964,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,370540,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,76379412,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,71982267,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,58847056,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,855926,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,1755502,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,582454,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,10553414,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,959112,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,93411605,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,174345481,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,98190642,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,1543901,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,854632,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,309395,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,549944,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,111938,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,42859383,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,127885790,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,18049252,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,26,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,18802956,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,3831708,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,216758,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,15344193,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,13946816,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,8069,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,208810,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,1974988,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,2008621,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,22569096,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,1292,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,55557,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,1720599,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,6512420,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,151040912,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,1875284,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,8396196,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,2198905,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,4694137,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,1534334,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,142692337,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,138758486,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,325940018,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,63459978,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12174268,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4448248,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,92,Br. Virgin Isds,VGB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,988,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,8938219,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13603953,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,693608931,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,747591534,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,21036475,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,15376004,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,10009619,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,36627826,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,92,Br. Virgin Isds,VGB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,26,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,7099413,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,14773060,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,152541443,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,229421963,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,713,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,742723,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,234887,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,8383556,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,15199711,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,487501,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,2999,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,71601,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,2567151,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,22324,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,13227547,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,19376324,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,2120,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,150282,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,10352,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,14136872,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,11675409,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,8669711,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,114717966,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,641872,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,1221126,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,92,Br. Virgin Isds,VGB,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,1068,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,92,Br. Virgin Isds,VGB,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,341,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,129578,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,8729546,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,238765486,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,113738583,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,140,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,3603,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,18,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,101,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,1719,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,109368,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,372099,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,589,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,111,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,428346,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,288547,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,5584818,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,10449358,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,3021539,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,21055269,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,9743022,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,21573528,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,32608222,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,18025305,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,1544645,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,92,Br. Virgin Isds,VGB,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,43,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,3775138,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,6248352,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,127960849,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,253006858,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,4515781,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,50476,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,6806,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,168,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,312535,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,201908,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,12374953,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,26478978,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,1985,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,288671,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,62544,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,26061,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,811288,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,950502,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,6545156,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,6366722,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,764684,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,390,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,145154,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,1840,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,19554856,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,31191533,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,624873,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,18231,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,1664619,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,1187,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,11584055,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,1085147,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,5640572,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,14549,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,548866,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,196665,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,333006,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,446454,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,64769539,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,19958663,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,17084648,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,8370,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,1271341,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,161891,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,78726648,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,22676319,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,1990192,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,91477,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,71685,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,429674,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,2837664,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,85183,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,56132329,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,36498154,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,21519688,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,52353,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,199,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,42512015,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,2135365,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,492658,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,51283,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,82,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,106,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,588,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,13614411,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,6962710,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,10582298,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,1040986,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,517845,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,33,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,189668,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,23702,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,35898328,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,12925852,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,1708762,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,71398,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,9967,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,66684334,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,15923825,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,189166,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,10242,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,236065,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,3670,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,16423670,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,83778,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,119064734,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,99161297,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,444824,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,726,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,44791,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,9478,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,16977307,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,64449,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,123945656,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,93126949,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,26229749,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,211992,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,172004,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,737049,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,92,Br. Virgin Isds,VGB,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,153014,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,1052205,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,14572,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,67676176,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,34084169,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,36987,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,9912944,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,1023,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,5367053,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,179109,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,146604576,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,89057555,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,11744,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,287,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,178535,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,0,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,6492402,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,5371152,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,1081,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,1978567,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,396958,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,2401,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,322425,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,2194819,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,1717957,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,14305518,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,1529034,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,5015959,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,250075,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,92,Br. Virgin Isds,VGB,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,467,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,195302,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,7006964,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,80754937,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,73956948,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,6548222,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,218873,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,125616,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,207260,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,3179702,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,700268,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,83384989,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,42507631,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,12455261,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,20985493,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,2595416,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,79435,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,2034395,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,2990767,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,90313903,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,73566795,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,9306468,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,1450676994,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,205600,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,33286,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,138,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,116068,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,107994714,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,136978243,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,89761390,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,676221579,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,68991292,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,38526223,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,3953660,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,15163872,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,138931272,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,1122818932,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,20826259,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,5617184,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,3491006,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,8113400,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,92,Br. Virgin Isds,VGB,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,919,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,92,Br. Virgin Isds,VGB,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,1136,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,5071954,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,214375584,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,476691110,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,484130800,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,3452160,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,45659,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,3954923,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,1073,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,886801,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,226389,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,11229646,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,119424755,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,734039,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,148,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,8260,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,80149,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,135295,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,5088619,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,4105423,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,3022349,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,135255,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,21042146,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,987261,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,69695494,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,112431918,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,215869743,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,1094989,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,91,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,362752,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,445451,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,2484722,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,1103026,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,3271,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,5843,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,3269432,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,7512353,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,3883578,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,564237,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,21011,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,210275,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,2313856,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,1521655,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,28302470,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,3015,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,3721792,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,198449,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,67286,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,490827,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,1988969,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,1913855,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,1027341,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,6432421,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,35629,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,1120689,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,1214054,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,51514265,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,47001566,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,4924931,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,144271,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,78549,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,68567,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,5895065,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,728927,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,102676669,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,55880555,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,239770106,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,25379001,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,128552378,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,1882024,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,92,Br. Virgin Isds,VGB,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,16855,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,127619113,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,160787933,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,1103163106,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,905502073,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,69176218,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,2696589,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,24728562,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,28387578,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,92,Br. Virgin Isds,VGB,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,900,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,60403251,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,5917174,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,794677111,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,724434325,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,203527,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,9363,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,92,Br. Virgin Isds,VGB,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,7835,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,207346,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,8516941,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,150884208,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,103862663,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,80228480,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,6311128,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,80360162,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,2968236,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,4613332,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,1844272,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,1274687097,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,636922914,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,497191,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,92,Br. Virgin Isds,VGB,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,6409624,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,26939305,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,22965845,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,470641,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,1090477,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,24016660,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,4504867,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,5619417,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,894479,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,12508288,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,3862992,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,235724707,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,160702658,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,6755,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,495,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,4711,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,133565,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,302459,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,4665900,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,2301425,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,3140,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,796,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,51795,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,761,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,160727,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,1194199,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,3309533,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,3718892,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,786566,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,133495,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,188,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,4175211,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,5451092,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,321066745,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,102177843,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,4539147,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,598411,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,16836,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,92,Br. Virgin Isds,VGB,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,3622,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,9377346,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,47783,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,70489454,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,60150977,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,19141056,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,1081377,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,76183,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,2331,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,427640,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,106105,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,31467185,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,109469617,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,230345,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,14470,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,284328,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,1424513,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,24167,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,295627163,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,69638206,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1247024,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,22428,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,262831945,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,6246320,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2471026049,,,0

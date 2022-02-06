@@ -1,0 +1,350 @@
+AltQuantity,CIFValue,FOBValue,GrossWeight,IsLeaf,NetWeight,TradeQuantity,Trade Value (US$),aggrLevel,Commodity Code,Commodity,cstCode,cstDesc,estCode,motCode,motDesc,period,periodDesc,pfCode,Partner ISO,pt3ISO2,Partner Code,ptCode2,Partner,ptTitle2,qtAltCode,qtAltDesc,qtCode,qtDesc,rgCode,Trade Flow,Reporter ISO,Reporter Code,Reporter,Year
+,,,,0,0,0,2496475,2,01,Animals; live,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,42702,2,01,Animals; live,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,496686,2,01,Animals; live,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,9628854,2,01,Animals; live,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,6514,2,02,Meat and edible meat offal,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,3296807,2,02,Meat and edible meat offal,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,8290,2,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,37718355,2,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,1573847,2,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,4439008,2,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,1381290,2,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,118762,2,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,11175903,2,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,18085832,2,05,Animal originated products; not elsewhere specified or included,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,416050,2,05,Animal originated products; not elsewhere specified or included,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,2207184,2,05,Animal originated products; not elsewhere specified or included,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,214156,2,05,Animal originated products; not elsewhere specified or included,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,760824,2,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,224901,2,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,29320,2,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,107180,2,07,Vegetables and certain roots and tubers; edible,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,216414,2,07,Vegetables and certain roots and tubers; edible,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,80403188,2,07,Vegetables and certain roots and tubers; edible,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,9626198,2,07,Vegetables and certain roots and tubers; edible,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,319207,2,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,225147220,2,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,1118333,2,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,249264,2,09,"Coffee, tea, mate and spices",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,1146718,2,09,"Coffee, tea, mate and spices",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,3800252,2,09,"Coffee, tea, mate and spices",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,2623489,2,09,"Coffee, tea, mate and spices",,,4,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,2081077,2,10,Cereals,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,399825,2,10,Cereals,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,6144390,2,10,Cereals,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,85837,2,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,21107639,2,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,517117,2,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,17918861,2,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,116179242,2,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,370203,2,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,1640040,2,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,3919023,2,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,9315100,2,13,"Lac; gums, resins and other vegetable saps and extracts",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,368559,2,13,"Lac; gums, resins and other vegetable saps and extracts",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,535707,2,13,"Lac; gums, resins and other vegetable saps and extracts",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,272314,2,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,37868,2,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,10503737,2,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,495078,2,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,22041,2,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,232576906,2,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,1184975,2,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,4993352,2,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,4366015,2,17,Sugars and sugar confectionery,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,2452927,2,17,Sugars and sugar confectionery,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,65959,2,17,Sugars and sugar confectionery,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,137629654,2,17,Sugars and sugar confectionery,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,3655960,2,18,Cocoa and cocoa preparations,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,6090449,2,18,Cocoa and cocoa preparations,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,882122,2,18,Cocoa and cocoa preparations,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,58818003,2,18,Cocoa and cocoa preparations,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,1941774,2,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,5014372,2,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,689915,2,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,52933635,2,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,22326155,2,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,9125176,2,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,15668202,2,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,20814247,2,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,90200397,2,21,Miscellaneous edible preparations,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,20513877,2,21,Miscellaneous edible preparations,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,333645,2,21,Miscellaneous edible preparations,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,53016211,2,21,Miscellaneous edible preparations,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,78246479,2,22,"Beverages, spirits and vinegar",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,14742369,2,22,"Beverages, spirits and vinegar",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,3017797,2,22,"Beverages, spirits and vinegar",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,11940839,2,22,"Beverages, spirits and vinegar",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,16063600,2,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,8903,2,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,39412341,2,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,61007073,2,24,Tobacco and manufactured tobacco substitutes,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,192429,2,24,Tobacco and manufactured tobacco substitutes,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,3680031,2,24,Tobacco and manufactured tobacco substitutes,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,2669864,2,24,Tobacco and manufactured tobacco substitutes,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,7961415,2,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,7327896,2,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,385742,2,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,13771082,2,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,15085752,2,26,"Ores, slag and ash",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,17594169,2,26,"Ores, slag and ash",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,1295,2,26,"Ores, slag and ash",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,7227998,2,26,"Ores, slag and ash",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,27618961,2,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,5491356147,2,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,415450032,2,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,4,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,29246021,2,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,76581257,2,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,5277536,2,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,20416395,2,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,4,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,138025736,2,29,Organic chemicals,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,19878592,2,29,Organic chemicals,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,1710643,2,29,Organic chemicals,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,35200247,2,29,Organic chemicals,,,4,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,1154517178,2,30,Pharmaceutical products,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,5163685,2,30,Pharmaceutical products,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,50204,2,30,Pharmaceutical products,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,111265775,2,30,Pharmaceutical products,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,408105,2,31,Fertilizers,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,349890183,2,31,Fertilizers,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,53231,2,31,Fertilizers,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,10990919,2,31,Fertilizers,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,41263182,2,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,683457,2,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,24749,2,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,22315929,2,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,212831116,2,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,3352704,2,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,61622,2,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,53879029,2,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,79721450,2,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,411428,2,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,326486,2,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,35905625,2,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,25909860,2,35,Albuminoidal substances; modified starches; glues; enzymes,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,47350,2,35,Albuminoidal substances; modified starches; glues; enzymes,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,3176989,2,35,Albuminoidal substances; modified starches; glues; enzymes,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,914937,2,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,467194,2,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,19154868,2,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,15084811,2,37,Photographic or cinematographic goods,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,21751,2,37,Photographic or cinematographic goods,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,371722,2,37,Photographic or cinematographic goods,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,441719293,2,38,Chemical products n.e.c.,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,4951426,2,38,Chemical products n.e.c.,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,38110,2,38,Chemical products n.e.c.,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,45327412,2,38,Chemical products n.e.c.,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,418380163,2,39,Plastics and articles thereof,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,45281803,2,39,Plastics and articles thereof,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,70292051,2,39,Plastics and articles thereof,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,112270141,2,39,Plastics and articles thereof,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,158193788,2,40,Rubber and articles thereof,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,91527758,2,40,Rubber and articles thereof,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,1918491,2,40,Rubber and articles thereof,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,39788020,2,40,Rubber and articles thereof,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,210657,2,41,Raw hides and skins (other than furskins) and leather,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,1200,2,41,Raw hides and skins (other than furskins) and leather,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,301087,2,41,Raw hides and skins (other than furskins) and leather,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,8964,2,41,Raw hides and skins (other than furskins) and leather,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,6216343,2,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,161109,2,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,554244,2,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,122288,2,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,123266,2,43,Furskins and artificial fur; manufactures thereof,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,11,2,43,Furskins and artificial fur; manufactures thereof,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,121783,2,43,Furskins and artificial fur; manufactures thereof,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,7468,2,43,Furskins and artificial fur; manufactures thereof,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,6757630,2,44,Wood and articles of wood; wood charcoal,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,201669491,2,44,Wood and articles of wood; wood charcoal,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,4590,2,44,Wood and articles of wood; wood charcoal,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,422505510,2,44,Wood and articles of wood; wood charcoal,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,27899,2,45,Cork and articles of cork,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,16173,2,45,Cork and articles of cork,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,139335,2,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,78340,2,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,754,2,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,58105815,2,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,8165,2,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,2945880,2,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,8920453,2,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,14435651,2,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,2869822,2,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,7250,2,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,115967173,2,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,4,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,7326019,2,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,6980746,2,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,3603,2,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,10159684,2,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,4,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,9820,2,50,Silk,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,2003,2,50,Silk,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,27698,2,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,9236,2,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,911031,2,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,104155,2,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,100475,2,52,Cotton,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,1110,2,52,Cotton,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,257638581,2,52,Cotton,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,15844,2,52,Cotton,,,4,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,12186,2,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,778289,2,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,127253,2,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,256994,2,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,17468437,2,54,Man-made filaments; strip and the like of man-made textile materials,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,1973,2,54,Man-made filaments; strip and the like of man-made textile materials,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,241967,2,54,Man-made filaments; strip and the like of man-made textile materials,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,566061,2,54,Man-made filaments; strip and the like of man-made textile materials,,,4,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,21908612,2,55,Man-made staple fibres,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,30090,2,55,Man-made staple fibres,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,18504979,2,55,Man-made staple fibres,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,4424726,2,55,Man-made staple fibres,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,8593143,2,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,682944,2,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,20105436,2,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,13846807,2,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,1626322,2,57,Carpets and other textile floor coverings,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,120,2,57,Carpets and other textile floor coverings,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,4293490,2,57,Carpets and other textile floor coverings,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,41064,2,57,Carpets and other textile floor coverings,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,667153,2,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,22026,2,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,3515313,2,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,82584,2,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,4343017,2,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,45228,2,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,2731,2,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,4525949,2,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,604711,2,60,Fabrics; knitted or crocheted,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,44,2,60,Fabrics; knitted or crocheted,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,69589721,2,60,Fabrics; knitted or crocheted,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,271725,2,60,Fabrics; knitted or crocheted,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,2974706,2,61,Apparel and clothing accessories; knitted or crocheted,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,1227291,2,61,Apparel and clothing accessories; knitted or crocheted,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,251731661,2,61,Apparel and clothing accessories; knitted or crocheted,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,964116,2,61,Apparel and clothing accessories; knitted or crocheted,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,5417653,2,62,Apparel and clothing accessories; not knitted or crocheted,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,1300156,2,62,Apparel and clothing accessories; not knitted or crocheted,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,15446883,2,62,Apparel and clothing accessories; not knitted or crocheted,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,768676,2,62,Apparel and clothing accessories; not knitted or crocheted,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,8629630,2,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,3392277,2,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,50854036,2,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,904403,2,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,1305963,2,64,Footwear; gaiters and the like; parts of such articles,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,1730184,2,64,Footwear; gaiters and the like; parts of such articles,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,1674837,2,64,Footwear; gaiters and the like; parts of such articles,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,882853,2,64,Footwear; gaiters and the like; parts of such articles,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,472560,2,65,Headgear and parts thereof,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,132353,2,65,Headgear and parts thereof,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,2389507,2,65,Headgear and parts thereof,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,147931,2,65,Headgear and parts thereof,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,16092,2,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,1948,2,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,11439,2,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,41809,2,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,19546,2,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,228521,2,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,36243,2,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,19319155,2,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,3345332,2,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,124323,2,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,14026343,2,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,4,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,4760791,2,69,Ceramic products,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,4129070,2,69,Ceramic products,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,381820,2,69,Ceramic products,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,11927022,2,69,Ceramic products,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,41258614,2,70,Glass and glassware,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,1963747,2,70,Glass and glassware,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,358797,2,70,Glass and glassware,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,28639392,2,70,Glass and glassware,,,4,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,34201351,2,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,2130767147,2,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,16920113,2,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,39431773,2,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,4130345,2,72,Iron and steel,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,571063894,2,72,Iron and steel,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,609740817,2,72,Iron and steel,,,4,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,205853224,2,73,Iron or steel articles,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,54968234,2,73,Iron or steel articles,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,2258839,2,73,Iron or steel articles,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,450478123,2,73,Iron or steel articles,,,4,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,71419075,2,74,Copper and articles thereof,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,1122685,2,74,Copper and articles thereof,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,12434210,2,74,Copper and articles thereof,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,1919093,2,74,Copper and articles thereof,,,4,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,12240315,2,75,Nickel and articles thereof,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,11439828,2,75,Nickel and articles thereof,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,170159,2,75,Nickel and articles thereof,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,56099904,2,76,Aluminium and articles thereof,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,376035003,2,76,Aluminium and articles thereof,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,1313352,2,76,Aluminium and articles thereof,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,36477330,2,76,Aluminium and articles thereof,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,205212,2,78,Lead and articles thereof,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,2147004,2,78,Lead and articles thereof,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,489,2,78,Lead and articles thereof,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,890971,2,78,Lead and articles thereof,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,721925,2,79,Zinc and articles thereof,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,14269835,2,79,Zinc and articles thereof,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,13660,2,79,Zinc and articles thereof,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,31232,2,80,Tin; articles thereof,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,2342,2,80,Tin; articles thereof,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,3451185,2,80,Tin; articles thereof,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,16266351,2,81,"Metals; n.e.c., cermets and articles thereof",,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,176913017,2,81,"Metals; n.e.c., cermets and articles thereof",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,728046,2,81,"Metals; n.e.c., cermets and articles thereof",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,330356,2,81,"Metals; n.e.c., cermets and articles thereof",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,66705526,2,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,2624824,2,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,9042,2,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,11524494,2,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,34996011,2,83,Metal; miscellaneous products of base metal,,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,412136,2,83,Metal; miscellaneous products of base metal,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,10769,2,83,Metal; miscellaneous products of base metal,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,11940288,2,83,Metal; miscellaneous products of base metal,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,1789150033,2,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,90997130,2,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,9697132,2,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,481306924,2,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,4,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,640451822,2,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,94140969,2,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,33099614,2,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,116088090,2,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,4,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,4333731,2,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,16425953,2,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,190655,2,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,40459842,2,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,1532754748,2,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,17651423,2,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,4932482,2,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,94210990,2,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,4,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,12443640,2,89,"Ships, boats and floating structures",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,668364,2,89,"Ships, boats and floating structures",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,447285,2,89,"Ships, boats and floating structures",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,1136725288,2,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,43254292,2,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,344783,2,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,45378872,2,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,489948,2,91,Clocks and watches and parts thereof,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,210975,2,91,Clocks and watches and parts thereof,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,210796,2,91,Clocks and watches and parts thereof,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,6647425,2,92,Musical instruments; parts and accessories of such articles,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,1667834,2,92,Musical instruments; parts and accessories of such articles,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,110,2,92,Musical instruments; parts and accessories of such articles,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,73642611,2,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,19713284,2,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,4,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,386107,2,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,23270416,2,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,17480478,2,95,"Toys, games and sports requisites; parts and accessories thereof",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,8852350,2,95,"Toys, games and sports requisites; parts and accessories thereof",,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,448141,2,95,"Toys, games and sports requisites; parts and accessories thereof",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,1391920,2,95,"Toys, games and sports requisites; parts and accessories thereof",,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,10061699,2,96,Miscellaneous manufactured articles,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,893749,2,96,Miscellaneous manufactured articles,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,2436503,2,96,Miscellaneous manufactured articles,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,21197369,2,96,Miscellaneous manufactured articles,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,177132,2,97,Works of art; collectors' pieces and antiques,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,336872,2,97,Works of art; collectors' pieces and antiques,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,4043986786,2,99,Commodities not specified according to kind,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,867691895,2,99,Commodities not specified according to kind,,,0,,,2020,2020,H5,USA,,842,,USA,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020
+,,,,0,0,0,1094838,2,99,Commodities not specified according to kind,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,1,Import,RUS,643,Russian Federation,2020
+,,,,0,0,0,400029852,2,99,Commodities not specified according to kind,,,0,,,2020,2020,H5,UZB,,860,,Uzbekistan,,,,1,No Quantity,2,Export,RUS,643,Russian Federation,2020

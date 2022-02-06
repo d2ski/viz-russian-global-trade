@@ -1,0 +1,618 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0.0,,15014244,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0.0,,40,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0.0,,141066,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0.0,,24657,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0.0,,4423,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0.0,,3751540,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0.0,,9647,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0.0,,21445,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0.0,,1014566,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0.0,,313954744,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0.0,,117531,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0.0,,743909,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0.0,,184045856,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0.0,,1547423112,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0.0,,12296984,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0.0,,245564,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0.0,,84424,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0.0,,3062793,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0.0,,22645610,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0.0,,131649,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0.0,,5659288,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0.0,,121565,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0.0,,7855053,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0.0,,37068,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0.0,,2869161,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0.0,,44595,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0.0,,720862,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0.0,,6585,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0.0,,23960,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0.0,,3081,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0.0,,8498,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0.0,,327337106,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0.0,,350194,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0.0,,82729,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0.0,,215060,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0.0,,1646647,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0.0,,13771,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0.0,,137841125,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0.0,,6720958,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0.0,,3504183,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0.0,,66743,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0.0,,136825,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0.0,,90644538,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0.0,,991022,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0.0,,18637,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0.0,,51764,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0.0,,162498,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,10,Cereals,1,No Quantity,0,,,,0.0,,284318,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,10,Cereals,1,No Quantity,0,,,,0.0,,148630,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,10,Cereals,1,No Quantity,0,,,,0.0,,3226115,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,10,Cereals,1,No Quantity,0,,,,0.0,,50374223,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,10,Cereals,1,No Quantity,0,,,,0.0,,6202718,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,10,Cereals,1,No Quantity,0,,,,0.0,,381774,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0.0,,644401,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0.0,,1317202,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0.0,,32063056,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0.0,,48357,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0.0,,2403863,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0.0,,1163608,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0.0,,2882075,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0.0,,71024,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0.0,,72311033,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0.0,,570003529,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0.0,,193430,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0.0,,21434103,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0.0,,4186634,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0.0,,154301,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0.0,,2168,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0.0,,56331282,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0.0,,2403348,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0.0,,16058,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0.0,,117,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0.0,,2888751,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0.0,,164435,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0.0,,117841,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0.0,,570639,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0.0,,41180,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0.0,,4706614,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0.0,,1084357593,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0.0,,5640,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0.0,,9714175,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0.0,,18305,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0.0,,347446,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0.0,,590611,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0.0,,426914,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0.0,,68638850,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0.0,,3488559,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0.0,,589541,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0.0,,330910,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0.0,,182420,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0.0,,29918763,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0.0,,12106104,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0.0,,30190,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0.0,,3346985,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0.0,,584752,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0.0,,51083,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0.0,,761443,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0.0,,16949992,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0.0,,122600410,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0.0,,18521,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0.0,,488864,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0.0,,171536,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0.0,,470585,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0.0,,26249677,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0.0,,35400322,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0.0,,20936,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0.0,,6931127,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0.0,,15808,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0.0,,1275540,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0.0,,1343322,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0.0,,206411598,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0.0,,2235565,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0.0,,114265,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0.0,,355798,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0.0,,67590,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0.0,,2597097,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0.0,,2801400,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0.0,,59357241,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0.0,,8140841,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0.0,,274573,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0.0,,160177,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0.0,,8139374,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0.0,,5717810,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0.0,,953388,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0.0,,1860098,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0.0,,11995542,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0.0,,25824643,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0.0,,236151,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0.0,,149751,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0.0,,46308177,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0.0,,1274648,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0.0,,36898988,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0.0,,46689174,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0.0,,99433135,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0.0,,7443583,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0.0,,49123938,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0.0,,587698,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0.0,,80804,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0.0,,2998879,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0.0,,43787932,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0.0,,2011,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0.0,,19361,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0.0,,65188,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0.0,,126631,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0.0,,34540,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0.0,,65569015,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0.0,,67137266,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0.0,,7027,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0.0,,58008,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0.0,,2183750,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0.0,,138605,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0.0,,355211,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0.0,,1895808,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0.0,,20954013,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0.0,,2464963784,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0.0,,48439084,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0.0,,11652427,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0.0,,41489462,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0.0,,39494095,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0.0,,29130233513,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0.0,,189018543,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0.0,,439777,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0.0,,921825340,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0.0,,20899303,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0.0,,22117708,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0.0,,274196818,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0.0,,86586963,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0.0,,10373466,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0.0,,8398573,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0.0,,99451174,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0.0,,3833119,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0.0,,1908328,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0.0,,1762292018,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0.0,,170394694,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0.0,,4872338,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0.0,,28083143,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0.0,,20226073,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0.0,,154025481,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0.0,,17372,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0.0,,271947376,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0.0,,945214,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0.0,,7689131,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0.0,,17393,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0.0,,68827800,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0.0,,1125223,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0.0,,219762,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0.0,,54435083,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0.0,,3812582,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0.0,,528264214,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0.0,,704,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0.0,,30314,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0.0,,119420,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0.0,,2188672,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0.0,,149919,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0.0,,157904407,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0.0,,3519545,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0.0,,16888,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0.0,,15599702,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0.0,,668999,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0.0,,13882242,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0.0,,57220,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0.0,,152043948,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0.0,,15247930,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0.0,,260962,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0.0,,50031,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0.0,,8044266,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0.0,,2671121,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0.0,,8236834,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0.0,,67847,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0.0,,101114570,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0.0,,6814041,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0.0,,4410,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0.0,,34139,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0.0,,10091703,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0.0,,3895907,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0.0,,139235,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0.0,,119356753,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0.0,,611119,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0.0,,1485,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0.0,,2089720,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0.0,,166564,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0.0,,509716,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0.0,,22653948,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0.0,,131436,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0.0,,371411,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0.0,,137300,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0.0,,6974,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0.0,,67096680,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0.0,,1462036,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0.0,,5304527,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0.0,,446200,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0.0,,417546154,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0.0,,79554312,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0.0,,116344,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0.0,,128466,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0.0,,15909242,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0.0,,2242023,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0.0,,10601723,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0.0,,734403,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0.0,,1914493838,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0.0,,698858827,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0.0,,398992,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0.0,,512664,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0.0,,124066641,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0.0,,26319704,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0.0,,10319455,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0.0,,55579162,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0.0,,588458596,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0.0,,254697447,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0.0,,63,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0.0,,260750,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0.0,,77454284,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0.0,,69050542,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0.0,,794950,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0.0,,4929661,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0.0,,34199,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0.0,,35180,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0.0,,428385,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0.0,,29609,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0.0,,397800851,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0.0,,188825,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0.0,,7749,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0.0,,1443751,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0.0,,100897,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0.0,,140671,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0.0,,3980,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0.0,,46275024,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0.0,,1303525,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0.0,,22959,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0.0,,109,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0.0,,914071,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0.0,,20898389,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0.0,,109882129,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0.0,,3073010457,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0.0,,300,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0.0,,8477738,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0.0,,3176564,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0.0,,42633794,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0.0,,398,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0.0,,2056930,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0.0,,155,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0.0,,25459,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0.0,,13,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0.0,,1032,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0.0,,11347379,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0.0,,38649,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0.0,,1039,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0.0,,102581,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0.0,,735457515,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0.0,,3869,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0.0,,1457053,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0.0,,331803,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0.0,,1519662,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0.0,,291426633,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0.0,,336403309,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0.0,,452748,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0.0,,24748687,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0.0,,15209929,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0.0,,647091,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0.0,,564993,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0.0,,44342958,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0.0,,136582685,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0.0,,49243,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0.0,,302412,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0.0,,6389045,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0.0,,687095,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,50,Silk,1,No Quantity,0,,,,0.0,,1138032,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,50,Silk,1,No Quantity,0,,,,0.0,,7275,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0.0,,1993,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0.0,,4726376,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0.0,,1040343,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0.0,,195,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0.0,,776929,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0.0,,76005,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,52,Cotton,1,No Quantity,0,,,,0.0,,6412,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,52,Cotton,1,No Quantity,0,,,,0.0,,80800079,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,52,Cotton,1,No Quantity,0,,,,0.0,,17575,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,52,Cotton,1,No Quantity,0,,,,0.0,,27,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,52,Cotton,1,No Quantity,0,,,,0.0,,83856,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,52,Cotton,1,No Quantity,0,,,,0.0,,208425,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0.0,,5367,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0.0,,1705405,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0.0,,1869464,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0.0,,42984,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0.0,,232502464,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0.0,,29055,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0.0,,84,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0.0,,5005127,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0.0,,2883869,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0.0,,3354,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0.0,,174740696,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0.0,,234003,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0.0,,135,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0.0,,702501,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0.0,,283,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0.0,,45192,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0.0,,6141,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0.0,,110007018,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0.0,,12195587,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0.0,,1159949,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0.0,,20576429,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0.0,,137477,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0.0,,75878,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0.0,,35,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0.0,,43685219,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0.0,,1909,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0.0,,427,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0.0,,1046447,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0.0,,7170,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0.0,,16536,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0.0,,2322,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0.0,,68190970,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0.0,,3671,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0.0,,44,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0.0,,549989,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0.0,,2547,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0.0,,628085,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0.0,,2086,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0.0,,117364732,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0.0,,407608,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0.0,,456,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0.0,,486,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0.0,,16952957,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0.0,,334761,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0.0,,267686,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0.0,,636,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0.0,,158654031,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0.0,,20966,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0.0,,822891,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0.0,,11615,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0.0,,836135,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0.0,,66262,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0.0,,912663313,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0.0,,406252,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0.0,,3681,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0.0,,1357343,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0.0,,612271,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0.0,,3006068,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0.0,,55889,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0.0,,1846274977,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0.0,,4976196,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0.0,,27686,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0.0,,5356,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0.0,,1306840,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0.0,,378859,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0.0,,885963,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0.0,,157062,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0.0,,905609073,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0.0,,15685423,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0.0,,637,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0.0,,57083,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0.0,,1485223,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0.0,,1210332,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0.0,,1010819,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0.0,,283280,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0.0,,1424434876,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0.0,,3257734,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0.0,,1564614,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0.0,,894188,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0.0,,26671,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0.0,,3780,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0.0,,94708333,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0.0,,18426,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0.0,,319,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0.0,,271032,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0.0,,79632,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0.0,,6113,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0.0,,18,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0.0,,14864501,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0.0,,741,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0.0,,10534,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0.0,,347,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0.0,,98337,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0.0,,29596,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0.0,,29560055,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,,,0,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0.0,,31273,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0.0,,1221371,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0.0,,200143,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0.0,,307370548,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0.0,,5419581,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0.0,,9050,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0.0,,116214,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0.0,,11992296,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0.0,,17548113,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0.0,,172965,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0.0,,30009,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0.0,,278073661,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0.0,,3225398,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0.0,,601,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0.0,,11659,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0.0,,22386509,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0.0,,291740,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0.0,,669979,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0.0,,1001256,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0.0,,294553258,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0.0,,2535327,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0.0,,245986,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0.0,,35884071,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0.0,,9357043,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0.0,,794633,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0.0,,478806,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0.0,,95332944,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0.0,,65903554,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0.0,,17751,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0.0,,611780,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0.0,,127039,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0.0,,2772681,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0.0,,23754588,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0.0,,504936183,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0.0,,855514869,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0.0,,321995,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0.0,,20058335,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0.0,,213512548,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0.0,,34557272,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0.0,,2208335,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0.0,,1596705537,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0.0,,25763054,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0.0,,3317,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0.0,,463034,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0.0,,104818087,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0.0,,5873658,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0.0,,1533439,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0.0,,3023747,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0.0,,102378771,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0.0,,1797061394,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0.0,,1134,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0.0,,1781605,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0.0,,2848794,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0.0,,614115,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0.0,,559397,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0.0,,482718,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0.0,,16101586,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0.0,,14448494,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0.0,,78,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0.0,,659879,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0.0,,4029451,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0.0,,2640527,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0.0,,13686723,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0.0,,376059289,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0.0,,234338637,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0.0,,11443887,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0.0,,13450975,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0.0,,11146921,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0.0,,468,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0.0,,1,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0.0,,331152,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0.0,,19100,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0.0,,52227,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0.0,,9347949,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0.0,,2228,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0.0,,2376081,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0.0,,317464,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0.0,,25496,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0.0,,4753,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0.0,,11391,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0.0,,472553,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0.0,,1670,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0.0,,569436,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0.0,,262255,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0.0,,164679006,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0.0,,48851907,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0.0,,223407,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0.0,,356176,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0.0,,11363292,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0.0,,26064,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0.0,,601857245,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0.0,,452395,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0.0,,7647,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0.0,,2397,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0.0,,24207666,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0.0,,638843,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0.0,,3038498,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0.0,,66952,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0.0,,515776910,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0.0,,789251,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0.0,,24891,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0.0,,43992093,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0.0,,956790,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0.0,,192239242,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0.0,,10362306,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0.0,,13136686419,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0.0,,1773700331,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0.0,,3458615,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0.0,,569967,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0.0,,1190874475,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0.0,,184152023,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0.0,,60612668,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0.0,,8167550,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0.0,,15035047342,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0.0,,241279051,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0.0,,3071035,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0.0,,3032707,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0.0,,529929377,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0.0,,17990869,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0.0,,75091,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0.0,,7581,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0.0,,141690196,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0.0,,3490019,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0.0,,1654,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0.0,,22311195,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0.0,,4384869,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0.0,,17294554,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0.0,,1542086,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0.0,,2094375476,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0.0,,18932215,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0.0,,1293,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0.0,,715289503,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0.0,,9434855,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0.0,,690262,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0.0,,241736,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0.0,,147435883,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0.0,,24110882,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0.0,,3237578,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0.0,,8511,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0.0,,4115,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0.0,,40979061,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0.0,,4173615,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0.0,,1784800605,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0.0,,197089250,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0.0,,32147,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0.0,,195451,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0.0,,67765906,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0.0,,3879380,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0.0,,14943,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0.0,,59962,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0.0,,82047791,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0.0,,61158,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0.0,,504863,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0.0,,2862,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0.0,,412094,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0.0,,204824,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0.0,,44485980,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0.0,,23037,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0.0,,5989,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0.0,,4289160,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0.0,,12766,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0.0,,1807729,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0.0,,3690808,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0.0,,1097898761,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0.0,,3375960,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0.0,,10794,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0.0,,883941,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0.0,,72902056,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0.0,,8341758,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0.0,,3543413,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0.0,,920343,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0.0,,1395701263,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0.0,,576607,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0.0,,102335,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0.0,,67966397,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0.0,,871037,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0.0,,511503,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0.0,,115178,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0.0,,488188591,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0.0,,414335,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0.0,,11610,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0.0,,228976,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0.0,,25514073,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0.0,,2740160,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0.0,,1850,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0.0,,17718,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0.0,,203423,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0.0,,901100,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0.0,,9019,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0.0,,1955,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0.0,,13912,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0.0,,125521461,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0.0,,28851532,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,156,China,CHN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0.0,,110524814,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0.0,,2065463075,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,192,Cuba,CUB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0.0,,15853137,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,192,Cuba,CUB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0.0,,133016749,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0.0,,5123,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0.0,,288234,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0.0,,57859682,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0.0,,643962231,,,0

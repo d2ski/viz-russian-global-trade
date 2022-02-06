@@ -1,0 +1,723 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,43048275,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,5086,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,608977,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,194171,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,372807,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,12789,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,4080594,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,129087,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0,,2103365,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,1517245,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,13877350,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,88154268,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,5331144,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,1721573,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,4005,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,476299,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,16008861,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,485673,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,3119,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,2229368,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,40782409,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,2711,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,2365088,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,2065712,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,48836,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,922612,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,5507676,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,47031654,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,286423,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,650070,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,46207,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,3771527,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,206205,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,7680263,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,2121218,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,614553,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,343169,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,839468,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,1721853,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,1074635774,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,5147797,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,11761874,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,9704,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,14440,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,38962,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,1966,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,134547,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,161053,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,1227054,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,1313887,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,529209,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,3774408,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,101448,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,435010,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,1267989,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,14029,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,13382,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,20660434,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,33957795,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,624337,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,5931335,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,275716,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,888477,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,377309,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,10675840,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,28271,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,3891401,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,12065187,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,229681,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,4943,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,5580,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,448718,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,7838,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,7621718,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,142605432,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,182322,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,8632759,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,409874,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,2459,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,4,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,19319514,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,11898,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,587187,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,1014,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,2383,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,52136,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,24295,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,1696588,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,20877631,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,614,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,490625,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,882070,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,790581,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,3068163,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,4247087,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,2710390,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,653435,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,8627549,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,1015242,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,219526,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,50626,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,917117,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,1356799,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,10720,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,211099,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,272814,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,2083900,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,17458908,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,28,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,627782,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,21231043,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,5402878,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,2731392,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,6198882,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,3279,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,22912856,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,24059884,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,2920143,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,1267490,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,13035996,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,25259,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,22988307,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,240502,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,240108,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,21358,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,6522900,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,83046,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,700207,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,2015561,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,80169,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,23781354,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,247915,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,7160901,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,77265,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,22347845,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,14705974,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,4912396,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,8543918,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,156814,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,50983924,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,7530781,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,3256349,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,195139,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,2306080,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,2957231,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,18409316,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,16825171,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,345031706,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,601614,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,48779731,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,63155670,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,179311,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,1198221,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,119866,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,31657300,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,33508410,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,133752918,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,28932714,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,4233408,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1716511,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,10451,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,112292,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,14275067,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,1030741,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,9760,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,454,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,740556,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,307076,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,19881928,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,5071010,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,12996023,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,3718228,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,223673,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,255550,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,54014971,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,1244060,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,36305062,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,186086,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,869041960,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,60384761,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,933492,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,837408897,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,162671552,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3728786095,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,26372912,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2559671266,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,722441,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,9892913,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,5777584,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,6083939,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,188174368,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,59464899,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,99797225,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,27574541,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,15740130,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,37764167,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,268309,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,1832,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,163570,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,890435,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,12151371,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,14997915,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,478052555,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,246992096,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,4081460,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,112379127,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,26717,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,209600,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,12438862,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,574748,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,65344091,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,5437970,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,576216570,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,720666,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,1507,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,31045498,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,77880898,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,2242,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,560859643,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,1776188,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,348728689,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,1070309,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,31894383,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,15986236,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,1204515,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,137746,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,36171097,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,1293090,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,79362387,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,569352,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,66525734,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,169597,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,3197994,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,6698516,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,68330,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,2916015,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,5832122,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,190003,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,642843620,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,7010051,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,8293330,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,706,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,94020,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,516732,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,705246,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,56561458,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,3943917,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,148970340,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,344319,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,65162123,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,135,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,1300929,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,613020,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,22576265,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,123,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,85587447,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,28454,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,4940,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,227241,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,11089,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,112135,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,5328095,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,2958798,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,209,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,6952,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,6869,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,224949,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,60059,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,72425010,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,1873130,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,5,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,1057855,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,3258884,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,2636412,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,26764804,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,29452602,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,372306357,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,1133510,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,30980548,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1849574,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6589,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2182241,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,18648055,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,11331835,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,219373732,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13159948,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,261434577,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10562921,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5253753,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,855796,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1990,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1782755,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1631758,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5493308,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,34287610,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,71253202,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,90724225,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,33024016,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,16380,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,573476,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,692187,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,344272,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,674339,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,112206,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,37,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,3237,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,101772,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,405907,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,447542,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,48630458,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,3530202,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,1220798,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,151787,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,38021,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,4924114,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,4661384,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,4018301,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,755170,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,975893,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,163165230,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,212024,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,2140071,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,197526838,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,7616970,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,600376938,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,10324736,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,89150648,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,791,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,18515,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,45636,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,1225,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,696160,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,1222,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,248,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,3347,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,4933,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,2965,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,5529,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,64053,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,1079485,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,1372392,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,27736795,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,3414156,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,11001,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,796129,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,10455554,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,3547621,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,134,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,35141864,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,3499096,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,13380064,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,411156105,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,33236153,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,73390304,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,4897600,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,506927,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,114320,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,2,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,652505,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,2372490,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,4103377,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,6054294,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,9465475,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,1271153,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,400,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,26,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,121287,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,23312,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,2294,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,541,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,20023,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,45814,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,28,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,5648,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,254630,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,4608,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,14879,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,976675,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,5641,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,5048,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,55064,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,65088,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,3174,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,25367,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,111793,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,17465,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,15314,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,51681,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,71512,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,552707,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,82416,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,853800,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,465621,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,497,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,6897,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,1434,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,1372159,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,466,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,1942849,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,308395,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,7229,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,3378041,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,2461627,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,5334949,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,171356,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,2495543,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,276500,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,1704170,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,64437,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,9835,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,403033,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,2817029,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,7168,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,21139,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,364,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,182297,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,88018,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,519451,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,304,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,958553,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,11459,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,767089,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,68230,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,323966,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,4629117,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,42098,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,3401927,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,5719,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,327,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,921,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,46046,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,435,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,825597,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,385862,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,194104,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,17922,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,17,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,364,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,202105,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,209197,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,1089319,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,27586,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,5420638,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,1131404,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,535187,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,13497,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,2092,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,10078891,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,456222,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,1077378,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,248971,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,24500144,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,2359825,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,2874745,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,1217794,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,53314,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,3558673,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,593530,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,1031711,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,1246967,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,3818949,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,8107617,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,66703,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,7220,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,736028,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,517404,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,8498730,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,70290,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,1940241,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,3246989,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,18049,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,116,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,14706,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,933123,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,50341,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,690883,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,812,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,925841,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,42302,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,1305,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,86492,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,22652,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,4823,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,12307,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,75740,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,5566,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,5919023,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,3714956,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,9,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,159781,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,9381348,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,20096959,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,22679500,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,10135630,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,200009,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,3297880,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,20642,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,1830418,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,330711,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,849208,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,686782,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,14343627,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,181651,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,2172772,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,904249,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,1095,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,674756,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,11192168,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,3713498,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,20890926,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,57402078,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,16991478,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,231286,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,254465,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,2037153,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,4470,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,313,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,22266872,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,747323,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,231300,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,179144885,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,773665,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,713137,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,72244605,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,57511743,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,100128049,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,38036465,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,95996730,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,21383595,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,563436,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,8654,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,1769870,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,12926503,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,31617958,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,57594227,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,42723280,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,107758734,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,8006133,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,1926162,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,268,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,2172048,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,18600,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,415859,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,116211,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,375885474,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,31301711,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,12395510,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,818152,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,34326,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,564,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,3533742,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,233303,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,894753946,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,11011433,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,310543,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,5479021,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,6219178,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,4284,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,6247318,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,876554,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,18335053,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,26910829,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,45244923,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,30691990,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,31792215,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,21,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,41,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,8263904,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,8841,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,8164,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,120842,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,12118,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,9700,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,268358,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,75,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,695534,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,50,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,1183,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,5845,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,26,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,46447,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,871,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,159787,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,2973,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,7198928,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,37600592,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,127297,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,300384,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,4427402,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,18058202,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,1515958,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,8318,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,10,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,27115,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,253522,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,262079,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,11465448,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,506480,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,16629859,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,146958,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,5557776,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,2768,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,394,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,3726,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,2955778,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,383102,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,5294873,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,171177,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,18190407,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,234306,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,336560367,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,1555547,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,86311,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,4288974,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,121974176,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,60710755,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,588299633,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,50721705,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,927670614,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,91145435,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,106402520,,,4
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,8833688,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,23794,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,12223852,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,160800413,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,13524919,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,158073413,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,26276052,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,479643208,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,30673617,,,4
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,160968,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,2016757,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,9085059,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,2184189,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,209740,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,819189,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,129023,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,19554686,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,7061,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,1746,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,159364,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,2198039,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,16051291,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,134738727,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,11826263,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,300523714,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,14855618,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,875476,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,10500630,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,6284047,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,6053689,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,34437472,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,1925424,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,3146513,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,295553,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,58209070,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,1371793,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,1,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,1484345,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,7271397,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,3829996,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,53813290,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,1303627,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,239397850,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,12336686,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,3556,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,57830,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,869690,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,104,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,1399226,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,120365,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,3562,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,1557,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,826251,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,258,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,1804,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,1070687,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,43489,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,6027355,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,785758,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,2602989,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,7638550,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,27358626,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,1707591,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,34914609,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,11662621,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,7315429,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,113112,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,91981,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,38600,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,1025688,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,1180688,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,5821370,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,4748421,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,6466839,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,1175397,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,2291736,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,4110,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,72,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,257958,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,2188787,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,728030,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,82267,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,22718247,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,378598,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,260088,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,56212,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,1004976,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,1010,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,504328,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,11334,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,1009539,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,36543,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,9977,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,293760255,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,157220,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,117566,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,406247408,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2019994,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,252680391,,,0
+H5,2020,2020,2020,2,0,1,Import,643,Russian Federation,RUS,251,France,FRA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2068939520,,,0
+H5,2020,2020,2020,2,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1541638981,,,0
